@@ -1,0 +1,3 @@
+[submodule "submodules/file-sync-system"]
+	path = submodules/file-sync-system
+	url = https://github.com/cometpeakgames/file-sync-system
